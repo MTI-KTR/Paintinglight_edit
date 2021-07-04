@@ -1,6 +1,7 @@
 # PaintingLight_Edit
 PaintingLightを用いた画像の合成を助けるツールを作成しました。
-使うためには(https://github.com/lllyasviel/PaintingLight)　の環境を構築してあることが前提です．
+使うためには(https://github.com/lllyasviel/PaintingLight/)
+の環境を構築してあることが前提です．
 
 ## 使い方
 上記のサイトを元に環境を構築したあと，このレポジトリをクローンしてください．
