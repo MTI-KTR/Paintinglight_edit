@@ -32,4 +32,5 @@ light_heightのしぼりではオブジェクトの明るさを設定できま�
 
 
 ## 参考サイト
-[〈Photoshop 合成〉画像と画像を違和感なく合成するテクニック](https://design-trekker.jp/design/photoshop/synthesis_picture/)
+[〈Photoshop 合成〉画像と画像を違和感なく合成するテクニック](https://design-trekker.jp/design/photoshop/synthesis_picture/)<br>
+(https://github.com/senguptaumd/Background-Matting)
